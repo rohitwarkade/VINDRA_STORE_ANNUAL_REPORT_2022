@@ -34,8 +34,6 @@ Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 # Dashboard
 <img width="1327" alt="SCREENSHOT430" src="https://github.com/user-attachments/assets/95790aef-181c-4f07-b03f-bd81d5cdea3f" />
 
-<a href= https://github.com/rohitwarkade/VINDRA_STORE_ANNUAL_REPORT_2022/blob/main/SCREENSHOT430.png > screenshot </a>
-
 # Project Insight
 Women customers are more likely to buy products compared to men (~65%).
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.

@@ -4,6 +4,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 # Dataset used
 Dataset
+- <a  href=https://github.com/rohitwarkade/VINDRA_STORE_ANNUAL_REPORT_2022/blob/main/Vrinda%20Store%20Data%20Analysis%202024.xlsx>vrindra store data</a>
+- <a  href= https://github.com/rohitwarkade/VINDRA_STORE_ANNUAL_REPORT_2022>dataset </a>
 # Questions (KPIs)
 Compare the sales and orders using single chart.
 

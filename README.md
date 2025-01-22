@@ -4,7 +4,6 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 # Dataset used
 Dataset
-- <a  href=https://github.com/rohitwarkade/VINDRA_STORE_ANNUAL_REPORT_2022/blob/main/Vrinda%20Store%20Data%20Analysis%202024.xlsx>vrindra store data</a>
 - <a  href= https://github.com/rohitwarkade/VINDRA_STORE_ANNUAL_REPORT_2022>dataset </a>
 # Questions (KPIs)
 Compare the sales and orders using single chart.
@@ -33,7 +32,7 @@ Made sure data is consistent and clean with respect to data type, data format an
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 # Dashboard
-Screenshot (495)
+- <a href=
 
 # Project Insight
 Women customers are more likely to buy products compared to men (~65%).

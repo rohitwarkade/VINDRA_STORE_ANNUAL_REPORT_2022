@@ -32,7 +32,7 @@ Made sure data is consistent and clean with respect to data type, data format an
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 # Dashboard
-- <a href=
+- <a  https://github.com/rohitwarkade/VINDRA_STORE_ANNUAL_REPORT_2022/blob/main/SCREENSHOT430.png> screenshot </a>
 
 # Project Insight
 Women customers are more likely to buy products compared to men (~65%).
